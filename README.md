@@ -1,15 +1,17 @@
 # Deep learning wiki
 
 ### Programming languages
-- Pyton
+
+- Python
 - R
 
-### Frameworks 
+### Frameworks
+
 - PyTorch
 - Matplotlib
 - Scikit-learn
 - Hugging Face
 
+### Resources
 
-### Resources 
 [Deep learning playlist](https://youtube.com/playlist?list=PLVDp9p6AIa6NWFH6AHX2WfsIq53KFu--C&si=0559Vzr-1j9Tky90)
