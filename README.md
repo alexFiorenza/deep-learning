@@ -3,7 +3,8 @@
 ### Programming languages
 
 - Python
-- R
+- C/C++
+- CUDA
 
 ### Frameworks
 
